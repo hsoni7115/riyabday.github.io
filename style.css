@@ -1,0 +1,49 @@
+
+  
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f3d5d5;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    header {
+      background-color: lightpink;
+      color: white;
+      padding: 20px;
+      font-size: 24px;
+    }
+
+    section {
+      margin: 20px;
+    }
+
+    h1 {
+      color: #320250;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      color: #3a066b;
+    }
+
+    .bday.png {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+    .bbg{
+      width: 210px;
+      height: 280px ;
+    }
+    footer {
+      background-color: #dfa6f8;
+      color: white;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  
